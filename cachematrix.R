@@ -1,4 +1,5 @@
-##  this file contains the required function to store the 
+##  this file contains the required objective function to create/replace a cachematrix 
+## and a caller function to cache the result Inverse matrix.
 
 
 
